@@ -49,7 +49,8 @@ MnemoShare is self-hosted and cloud-native. You retain full control over your da
 ### Open Source Tools
 
 | Repository | Description |
-|---|—|
+|---|---|
+| [`docker hub`](https://hub.docker.com/u/mnemoshare) | Public container repository for obtaining MnemoShare for Kubernetes, license required |
 | [`helm-charts`](https://github.com/MnemoShare/helm-charts) | Public Helm charts for deploying MnemoShare on Kubernetes |
 | [`homebrew-tap`](https://github.com/MnemoShare/homebrew-tap) | Homebrew tap for installing the MnemoShare CLI on macOS/Linux |
 | [`apt`](https://github.com/MnemoShare/apt) | APT repository for Debian/Ubuntu packages |
