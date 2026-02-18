@@ -1,8 +1,10 @@
 <h1>Secure data exchange for a zero-trust world</h3>
 
-<h3>
-MnemoShare replaces static credentials and standing access with identity-bound, ephemeral exchange — fully auditable, Kubernetes-native, and designed for modern compliance.
-</h3>
+<h4>
+MnemoShare replaces static credentials and standing access with identity-bound,
+ephemeral exchange — fully auditable, Kubernetes-native,
+and designed for modern compliance.
+</h4>
 
 <p>
   <a href="https://mnemoshare.com">Website</a> &middot;
