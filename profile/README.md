@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://mnemoshare.com/logo.png" alt="MnemoShare" width="280" />
+  <img src="https://raw.githubusercontent.com/MnemoShare/.github/main/profile/mnemoshare-shield-large.png" alt="MnemoShare" width="80" />
 </p>
+
+<h1 align="center">MnemoShare</h1>
 
 <h3 align="center">Secure data exchange for a zero-trust world</h3>
 
